@@ -89,7 +89,7 @@ section {
     justify-content: center;
     margin-top: 5px;
 }
-.images:hover .box{
+.card-1:hover .box{
      right: 0px;
 }
 .icons:hover {
